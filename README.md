@@ -29,7 +29,7 @@ This reference architecture shows how to implement continuous integration (CI), 
 
 The build pipelines include DevOps tasks for data sanity tests, unit tests, model training on different compute targets, model version management, model evaluation/model selection, model deployment as realtime web service, staged deployment to QA/prod and integration testing.
 
-## Prerequisite
+## Prerequisite:
 
 - Active Azure subscription
 - At least contributor access to Azure subscription
