@@ -20,7 +20,7 @@ variables:
 
   # Azure ML Variables
   - name: EXPERIMENT_NAME
-    value: mlopspython
+    value: mlopspython-run-for-test
   - name: DATASET_NAME
     value: diabetes_ds
   # Uncomment DATASTORE_NAME if you have configured non default datastore to point to your data --this for testing purposes--
